@@ -25,7 +25,7 @@ This website was created to professionally showcase a construction company’s p
 -Bootstrap 5: Provided a robust framework for mobile compatibility and responsive design.
 -JavaScript: Integrated to enable dynamic interactions and enhance user experience.
 -Responsive Design: A fully adaptive layout to ensure optimal viewing and usage across devices.
--Forms and Interactions: Optimized structures were used for customer communication forms and other interactive elements.
+-Forms and Interactions: Optimized structures for customer communication forms and other interactive elements were used.
 -Cross-browser Compatibility: The site is designed to work seamlessly across different browsers.
 -FontAwesome: A wide range of icons were integrated using the FontAwesome library.
 -W3C Validation: W3C validation was performed to ensure the code meets the highest standards.
