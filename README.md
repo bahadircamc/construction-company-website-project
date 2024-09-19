@@ -35,4 +35,4 @@ This website was created to professionally showcase a construction company’s p
 
 
 # Communication
-[Bahadir Bilal Camci](camcibahadir0@gmail.com)
+[Bahadir Bilal Camci](linkedin.com/in/camcibahadir)
