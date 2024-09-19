@@ -34,5 +34,3 @@ This website was created to professionally showcase a construction company’s p
 ![](ekrankaydi.gif)
 
 
-# Communication
-[Bahadir Bilal Camci](linkedin.com/in/camcibahadir)
